@@ -113,5 +113,9 @@
     justify-content: space-between;
 
 }
+    .h2{
+    font-size: 30px;
+    padding: 10px;
+}
     
   }
